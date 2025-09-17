@@ -5,7 +5,7 @@
 # WIFIM - Wireless Information Focus Interface Master
 This professional WiFi management tool allows you to view and manage detailed information about all wireless networks registered on your computer.
 
-<h1 align="center">GiPac Logo</h1>
+<h1 align="center">WIFIM Logo</h1>
 
 <p align="center">
   <img src="wifime.png" alt="WIFIM Logo" width="150" height="150">
