@@ -24,7 +24,8 @@ This professional WiFi management tool allows you to view and manage detailed in
 
 Windows Installer CMD (PowerShell): To Install from Windows CMD Using a Direct Link.
 ```bash
-powershell -Command "Invoke-WebRequest -Uri 'https://github.com/cektor/WIFIM/releases/download/1.0.0/Setup_Win64.exe' -OutFile 'Setup_Win64.exe'" && start /wait Setup_Win64.exe
+powershell -Command "Invoke-WebRequest -Uri 'https://github.com/cektor/WIFIM/releases/download/1.0.0/Setup_Win64.exe' -OutFile 'Setup_Win64.exe'; Start-Process -FilePath '.\Setup_Win64.exe' -Wait"
+
 ```
 
 
