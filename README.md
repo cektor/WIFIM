@@ -18,7 +18,6 @@ This professional WiFi management tool allows you to view and manage detailed in
 ![](screenshots/3.png)
 ![](screenshots/4.png)  
 ![](screenshots/5.png)  
-![](screenshots/6.png)
 --------------------
 
 # To install directly on Windows
